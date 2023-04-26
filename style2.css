@@ -9,7 +9,7 @@ body{
     margin-bottom: 30px;
     width: 200px;
     height: 300px;
-    display: grid;
+    display: flexbox;
     grid-template-columns: 30px 30px 30px 30px;
     grid-template-rows: 30px 30px 30px 30px 30px;
     grid-gap: 10px;
